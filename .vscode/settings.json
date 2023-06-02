@@ -3,5 +3,6 @@
         "Start project",
         "Add Settings.json Conventional commit",
         "Add code"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
