@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "Start project"
+        "Start project",
+        "Add Settings.json Conventional commit"
     ]
 }
