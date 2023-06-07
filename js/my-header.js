@@ -1,8 +1,4 @@
-/**
- * todo: Hay que arreglar esto ▼ 
- * ? Esta una Mier.....da :)
- * @var styles
- */
+/* xd */
 import styles from "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" assert { type: "css" };
 export class myHeader extends HTMLElement{
     constructor(){
@@ -18,4 +14,5 @@ export class myHeader extends HTMLElement{
         })
     }
 }
+
 customElements.define("my-header",myHeader);
